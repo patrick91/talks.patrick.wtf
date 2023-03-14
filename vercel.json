@@ -1,6 +1,10 @@
 {
   "redirects": [
     {
+      "source": "graphql-caching",
+      "destination": "https://www.apollographql.com/blog/backend/caching/graphql-caching-the-elephant-in-the-room/"
+    },
+    {
       "source": "/automated-persisted-queries",
       "destination": "https://www.apollographql.com/docs/apollo-server/performance/apq/"
     }
