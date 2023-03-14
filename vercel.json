@@ -1,7 +1,7 @@
 {
   "redirects": [
     {
-      "source": "graphql-caching",
+      "source": "/graphql-caching",
       "destination": "https://www.apollographql.com/blog/backend/caching/graphql-caching-the-elephant-in-the-room/"
     },
     {
