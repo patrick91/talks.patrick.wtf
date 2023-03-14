@@ -1,6 +1,14 @@
 {
   "redirects": [
     {
+      "source": "/principled-graphql",
+      "destination": "https://principledgraphql.com/"
+    },
+    {
+      "source": "/scaling-graphql",
+      "destination": "https://medium.com/paypal-tech/scaling-graphql-at-paypal-b5b5ac098810"
+    },
+    {
       "source": "/graphql-caching",
       "destination": "https://www.apollographql.com/blog/backend/caching/graphql-caching-the-elephant-in-the-room/"
     },
