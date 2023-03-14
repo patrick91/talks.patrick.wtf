@@ -1,7 +1,7 @@
 {
   "redirects": [
     {
-      "source": "automated-persisted-queries",
+      "source": "/automated-persisted-queries",
       "destination": "https://www.apollographql.com/docs/apollo-server/performance/apq/"
     }
   ]
